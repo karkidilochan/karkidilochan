@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm Dilochan Karki
-#### 🧑‍💻 Software Engineer | DataOps & MLOps Enthusiast  
+#### 🧑‍💻 Software Engineer | Data & ML Ops Enthusiast  
 
 I build scalable data infrastructures and am currently exploring efficient AI solutions using distributed systems. My work spans **distributed deep learning training**, **production-ready data pipelines**, and **backend systems**.
 
